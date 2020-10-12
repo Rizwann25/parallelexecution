@@ -26,7 +26,7 @@ import com.atmecs.parallel.reader.PropertyReader;
 		//	if (browser.equalsIgnoreCase("chrome")) {
 		System.setProperty("webdriver.chrome.driver", constant.chrome_path);
 		driver = new ChromeDriver();
-		//	}
+			//	}
 	
 	//	    else { System.setProperty("webdriver.gecko.driver", constant.firefox_path);
 	//	    driver = new FirefoxDriver(); }
